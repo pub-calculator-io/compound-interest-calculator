@@ -12,9 +12,8 @@ Compound interest calculator that uses the interest formula (A = P(1 + r/n)^nt) 
 3. Activate the [Compound Interest Calculator](https://www.calculator.io/compound-interest-calculator/ "Compound Interest Calculator Homepage") plugin through the "Plugins" menu in WordPress.
 
 ## Usage
-* Add the shortcode `[ci_compound_interest_calculator]` to your page or post and configure default mortgage parameters.
-* If you are using widgets, just add the Compound Interest Calculator to the sidebar through the `Appearance -> Widgets -> Compound Interest Calculator` menu in WordPress.
-* Add the following code: `<?php display_ci_compound_interest_calculator(); ?>` to your template where you would like the Compound Interest Calculator to appear.
+* Add the shortcode `[ci_compound_interest_calculator]` to your page, post or sidebar.
+* Or add the following code: `<?php display_ci_compound_interest_calculator(); ?>` to your template where you would like the Compound Interest Calculator to appear.
 
 ## Libraries in Use
 1. https://mathjs.org/
