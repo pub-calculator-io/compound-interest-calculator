@@ -13,6 +13,8 @@ Compound interest calculator that uses the interest formula (A = P(1 + r/n)^nt) 
 
 Compound interest calculator that uses the interest formula (A = P(1 + r/n)^nt) to help users understand the impacts of compound interest and money growth over time.
 
+[Compound Interest Calculator Homepage](https://www.calculator.io/compound-interest-calculator/ "Compound Interest Calculator Homepage")
+
 __Shortcode__
 
 Use the Compound Interest Calculator shortcode:
