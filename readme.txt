@@ -1,4 +1,4 @@
-=== Compound Interest Calculator by Calculator.iO ===
+=== Compound Interest Calculator ===
 Contributors: calculatorio
 Tags: compound interest calculator, calculate compound interest, annual compound interest, daily compounding calculator, interest calculator savings, compound savings calculator, future investment calculator, compound interest formula tool, periodic interest calculator, compound interest rate calculation
 Requires at least: 5.0
