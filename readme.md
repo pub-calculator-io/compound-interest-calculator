@@ -1,4 +1,4 @@
-# Compound Interest Calculator WordPress Widget by [Calculator.iO](https://www.calculator.io/ "Calculator.iO Homepage")
+# Compound Interest Calculator Widget for WordPress
 
 Compound interest calculator that uses the interest formula (A = P(1 + r/n)^nt) to help users understand the impacts of compound interest and money growth over time.
 
