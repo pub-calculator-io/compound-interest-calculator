@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Compound Interest Calculator by www.calculator.io
+Plugin Name: CI Compound interest calculator
 Plugin URI: https://www.calculator.io/compound-interest-calculator/
 Description: Compound interest calculator that uses the interest formula (A = P(1 + r/n)^nt) to help users understand the impacts of compound interest and money growth over time.
 Version: 1.0.0
