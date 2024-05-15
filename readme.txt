@@ -7,7 +7,7 @@ Stable tag: 1.0.0
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
-Compound interest calculator that uses the interest formula (A = P(1 + r/n)^nt) to help users understand the impacts of compound interest and money growth over time.
+Compound interest calculator that uses the interest formula (A = P(1 + r/n)ⁿᵗ) to help users understand the impacts of compound interest and money growth over time.
 
 [https://www.calculator.io/compound-interest-calculator/](https://www.calculator.io/compound-interest-calculator/)
 
@@ -24,7 +24,6 @@ Add the following code to your template where you would like the Compound Intere
 == Screenshots ==
 
 1. The Compound Interest Calculator Input Form.
-2. The Compound Interest Calculator Calculation Results.
 
 == Installation ==
 

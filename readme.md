@@ -1,9 +1,8 @@
 # Compound Interest Calculator Widget for WordPress
 
-Compound interest calculator that uses the interest formula (A = P(1 + r/n)^nt) to help users understand the impacts of compound interest and money growth over time.
+Compound interest calculator that uses the interest formula (A = P(1 + r/n)ⁿᵗ) to help users understand the impacts of compound interest and money growth over time.
 
 ![Compound Interest Calculator Input Form](/assets/images/screenshot-1.png "Compound Interest Calculator Input Form")
-![Compound Interest Calculator Calculation Results](/assets/images/screenshot-2.png "Compound Interest Calculator Calculation Results")
 
 ## Installation
 
